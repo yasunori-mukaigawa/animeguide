@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">アニメガイド</string>
+    <string name="tab_text_1">春</string>
+    <string name="tab_text_2">夏</string>
+    <string name="tab_text_3">秋</string>
+    <string name="tab_text_4">冬</string>
+    <string name="tab_text_anim_1">公式サイト</string>
+    <string name="tab_text_anim_2">Twitter</string>
+    <string name="nav_header_title">メニュー</string>
+    <string name="nav_header_favorite">お気に入り</string>
+    <string name="not_title">Not_title</string>
+    <string name="dialog_header_title">年を選択</string>
+    <string name="ok">OK</string>
+    <string name="close">×</string>
+    <string name="common">共通</string>
+    <string name="male">男性向け</string>
+    <string name="female">女性向け</string>
+    <string name="default_year">2019</string>
+    <string name="title_activity_anime_information_activity">AnimeInfomationAcyivity</string>
+    <string name="todo">TODO</string>
+</resources>
